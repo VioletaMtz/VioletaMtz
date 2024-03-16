@@ -1,5 +1,4 @@
 
--
 -👋 Hi, I’m @VioletaMtz
 - 👀 Estoy interesado en Integrar IA en la educación
 - 🌱 Actualmente estudio Doctorado en Tecnología Educativa
